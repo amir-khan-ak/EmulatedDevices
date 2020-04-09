@@ -1,5 +1,5 @@
 # EmulatedDevices
-Emulated Devices for UFT One
+Over 75 Emulated Devices for UFT One
 
 # Purpose 
 The EmulatedDevices.xml provides a list of current mobile devices with their scaling and resolution properties. EmulatedDevices.xml is used by Micro Focus UFT One. 
